@@ -1,0 +1,13 @@
+.button {
+    padding: .25rem .75rem;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+.item-add-form input {
+    padding: .25rem .75rem;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
