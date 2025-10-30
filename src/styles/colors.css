@@ -1,0 +1,61 @@
+:root {
+  /* Text & Icons — Neutral */
+  --color-text-neutral-white: #FFFFFF;
+  --color-text-neutral-primary: #111111;
+  --color-text-neutral-secondary: #676C73;
+  --color-text-neutral-tertiary: #CCCCCC;
+
+  /* Text & Icons — Alpha */
+  --color-text-alpha-75: rgba(17, 17, 17, 0.75);
+
+  /* Text & Icons — Brand blue */
+  --color-text-brand-primary: #0047BB;
+  --color-text-brand-primary-hover: #003080;
+  --color-text-brand-secondary: #6283D9;
+  --color-text-brand-tertiary: #C0CDF0;
+  --color-text-brand-on-accent: #FFFFFF;
+
+  /* Surface — Neutral */
+  --color-surface-neutral-white: #FFFFFF;
+  --color-surface-neutral-primary: #F8F8F8;
+  --color-surface-neutral-primary-hover: #EDEDED;
+  --color-surface-neutral-secondary: #F7F9FB;
+  --color-surface-neutral-secondary-hover: #F1F3F8;
+
+  /* Surface — Accent */
+  --color-surface-accent-blue: #0047BB;
+  --color-surface-accent-cyan: #61C8F6;
+  --color-surface-accent-mint: #10FFB5;
+  --color-surface-accent-aqua: #68D4E5;
+
+  /* Surface — Brand blue */
+  --color-surface-brand-primary: #F0F4FD;
+  --color-surface-brand-primary-hover: #DFE5F7;
+  --color-surface-brand-secondary: #3F69D2;
+  --color-surface-brand-accent: #003C9E;
+  --color-surface-brand-accent-hover: #0047BB;
+
+  /* Surface — Danger */
+  --color-surface-danger-primary: #FFEEEE;
+  --color-surface-danger-primary-hover: #FFC6C6;
+  --color-surface-danger-accent: #F02D2D;
+  --color-surface-danger-accent-hover: #F96161;
+
+  /* Outlines (strokes) — Neutral */
+  --color-outline-neutral-primary: #F1F3F8;
+  --color-outline-neutral-primary-light: #F7F9FB;
+  --color-outline-neutral-secondary: #DBE0E8;
+  --color-outline-neutral-secondary-dark: #B8BFCC;
+  --color-outline-neutral-tertiary: #DFE5F7;
+  --color-outline-neutral-tertiary-dark: #C0CDF0;
+
+  /* Outlines (strokes) — Accent */
+  --color-outline-accent-primary: #87A0E1;
+  --color-outline-accent-secondary: #3F69D2;
+
+  /* Outlines (strokes) — Danger */
+  --color-outline-danger-primary: #F96161;
+  --color-outline-danger-primary-hover: #F02D2D;
+  --color-outline-danger-secondary: #FFC6C6;
+  --color-outline-danger-secondary-hover: #FF9393;
+}
